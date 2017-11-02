@@ -9,7 +9,7 @@ public class ButtonScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		Debug.Log("HELLO WORLD");
 	}
 	
 	// Update is called once per frame
